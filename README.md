@@ -29,8 +29,8 @@ This project provides a convenient way to generate barcode labels in ZPL format 
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/zpl-to-pdf-generator.git
-    cd zpl-to-pdf-generator
+    git clone https://github.com/yourusername/zplabel.git
+    cd zplabel
     ```
 
 2. **Install Required Utilities:**
